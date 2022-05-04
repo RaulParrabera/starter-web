@@ -1,5 +1,5 @@
 #Starter Web Project
-Changes1 Adding a line for rebasing example
+Changes1 Adding a line for rebasing example, then more changes from the myfeature branch too
 ##Introduction
 Changes2
 ##Purpose
